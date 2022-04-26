@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW ${DB1}.${business}.A_VIEW AS 
+SELECT * FROM ${DB1}.${business}.MY_TABLE;
